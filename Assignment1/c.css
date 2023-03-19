@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+
+.strike{
+    text-decoration: line-through;
+  font-weight: bold;
+}
+.under
+{
+    text-decoration: underline;
+    font-style: italic;
+    
+   }
+.ch{
+    letter-spacing: 5px;
+}
+.lnk{
+    font-style: italic;
+   background-color: yellow;
+   text-decoration: none;
+}
